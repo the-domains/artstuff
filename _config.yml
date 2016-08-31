@@ -1,3 +1,4 @@
+layout_spectrum: 0.22239678399637341
 typography_spectrum: 0.749802874866873
 color:
   brandStrength: 0.9846758027561009
@@ -5,12 +6,9 @@ color:
   saturation: 0.7027805489487946
   rhythmicContrast: 0.21272133360616863
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-layout_spectrum: 0.22239678399637341
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: ArtStuff
-title: OnlyTheBest
-description: for you
